@@ -1,0 +1,13 @@
+Kaggle/
+Project/
+val.zip
+# Ignore data files in AutoEncoder And VAE
+AutoEncoder And VAE/data/
+AutoEncoder And VAE/data/**
+
+# Ignore checkpoints and wandb in Self Attention
+Self Attention/checkpoints/
+Self Attention/checkpoints/**
+Self Attention/wandb/
+Self Attention/wandb/**
+
